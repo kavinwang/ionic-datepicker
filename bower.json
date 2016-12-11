@@ -33,7 +33,7 @@
   ],
   "dependencies": {
     "ionic": "driftyco/ionic-bower#1.0.0",
-    "moment": "~2.17.1`",
+    "moment": "~2.17.1",
     "angular": "1.5.3"
   },
   "devDependencies": {
